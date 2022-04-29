@@ -1,0 +1,2 @@
+pandas
+parstdex==1.1.1
